@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Asan 👋
 
-<!--
-**Asann1/Asann1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring backend developer (Python). I learn by building, one small layer at a time.
 
-Here are some ideas to get you started:
+## Currently building
+- [server-monitor](https://github.com/Asann1/server-monitor): server monitoring service.
+  Python agent → FastAPI → PostgreSQL → Telegram alerts (in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Also
+- [tg-pc-control-bot](https://github.com/Asann1/tg-pc-control-bot): Telegram bot for remote Windows PC control.
+
+## Tech
+Python · FastAPI · Git · learning: PostgreSQL, Docker, Linux
