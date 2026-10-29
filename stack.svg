@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace" role="img" aria-label="Using: Python, FastAPI, Pydantic, psutil, python-telegram-bot, Git. Next: PostgreSQL, SQLAlchemy, Docker, Linux, pytest, GitHub Actions.">
+  <rect width="900" height="176" rx="12" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="899" height="175" rx="12" fill="none" stroke="#2a2a2a"/>
+  <text x="24" y="30" font-size="11" letter-spacing="3" fill="#7a7a7a">USING</text>
+  <rect x="24" y="40" width="80" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="64.0" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">Python</text>
+  <rect x="114" y="40" width="88" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="158.0" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">FastAPI</text>
+  <rect x="212" y="40" width="97" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="260.5" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">Pydantic</text>
+  <rect x="319" y="40" width="80" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="359.0" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">psutil</text>
+  <rect x="409" y="40" width="191" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="504.5" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">python-telegram-bot</text>
+  <rect x="610" y="40" width="54" height="34" rx="17" fill="#f2f2f2"/>
+  <text x="637.0" y="62" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle">Git</text>
+  <text x="24" y="108" font-size="11" letter-spacing="3" fill="#7a7a7a">NEXT</text>
+  <rect x="24.5" y="118.5" width="113" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="81.0" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">PostgreSQL</text>
+  <rect x="148.5" y="118.5" width="113" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="205.0" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">SQLAlchemy</text>
+  <rect x="272.5" y="118.5" width="79" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="312.0" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">Docker</text>
+  <rect x="362.5" y="118.5" width="70" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="397.5" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">Linux</text>
+  <rect x="443.5" y="118.5" width="79" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="483.0" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">pytest</text>
+  <rect x="533.5" y="118.5" width="147" height="33" rx="16.5" fill="none" stroke="#6a6a6a" stroke-dasharray="4 3"/>
+  <text x="607.0" y="140" font-size="14" fill="#c8c8c8" text-anchor="middle">GitHub Actions</text>
+</svg>
