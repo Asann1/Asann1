@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Asan - aspiring backend developer" width="100%">
+  <img src="assets/banner.svg" alt="Asan - Python backend developer" width="100%">
 </div>
 
 <br>
 
 ### about
 
-I'm learning backend development with Python by building real things instead of only following tutorials. Right now that's a server monitoring service, built one layer at a time: API, database, auth, Docker, tests, deployment.
-
-Looking for a junior / intern Python backend position.
+Python backend developer. Right now I'm building a server monitoring service: agent, API, database, auth, Docker, alerts.
 
 ### stack
 
-<img src="assets/stack.svg" alt="Using: Python, FastAPI, Pydantic, psutil, python-telegram-bot, Git. Learning next: PostgreSQL, SQLAlchemy, Docker, Linux, pytest, GitHub Actions." width="100%">
+<img src="assets/stack.svg" alt="Using: Python, FastAPI, Pydantic, psutil, python-telegram-bot, Git. Next: PostgreSQL, SQLAlchemy, Docker, Linux, pytest, GitHub Actions." width="100%">
 
 ### projects
 
@@ -34,12 +32,4 @@ progress  [██░░░░░░]  2 / 8
 [ ] alerts    Telegram
 [ ] quality   pytest + CI
 [ ] deploy    VPS + nginx
-```
-
-### how I work
-
-```
-sessions   1 hour a day, one small goal each
-commits    small, focused, conventional
-notes      what I chose, why, and what broke
 ```
