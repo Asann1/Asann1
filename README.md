@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm a first-year student teaching myself backend development. I learn by building: every tool in my stack goes into a project first, and only then into this profile.
+I'm a student teaching myself backend development. I learn by building: every tool in my stack goes into a project first, and only then into this profile.
 
 Right now I'm working on **server-monitor**, a service made of an agent, an API, a database, authentication, Docker and alerts. I write down my design decisions along the way: what I chose, why, and what went wrong.
 
